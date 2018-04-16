@@ -10,7 +10,7 @@
      - Click the "Watch" and "Star" buttons to get email notifications about the class site.
      - Click the "Issues" tab at the top of this page. "Issues" are designed for reporting bugs, but they're good for all kinds of communication about a project. The only catch is that only paid accounts can be made private. I don't have a paid account, so anything you post on GitHub will be visible to anyone. (Stick to email for private communication!)
      - If you're okay using GitHub Issues for class communication, click the "New Issue" button, and use an issue to let me know! If you're not, write an email to let me know.
-     - Be aware that GitHub is something employers look at to get a sense of your technical skills. If this makes you panic, don't use it. But if you can use it and stay sane, it's a good way to establish some credentials.
+     - Be aware that GitHub is something employers look at to get a sense of your technical skills. If this makes you panic, don't use it. But if you can use it and stay sane, it's a good way to establish some credentials. Don't worry about looking ignorant at first though – everyone is! You'll look like smart people learning new things!
   
 - Reading
 
