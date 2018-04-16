@@ -10,13 +10,8 @@
      - Click the "Watch" and "Star" buttons to get email notifications about the class site.
      - Click the "Issues" tab at the top of this page. "Issues" are designed for reporting bugs, but they're good for all kinds of communication about a project. The only catch is that only paid accounts can be made private. I don't have a paid account, so anything you post on GitHub will be visible to anyone. (Stick to email for private communication!)
      - If you're okay using GitHub Issues for class communication, click the "New Issue" button, and use an issue to let me know! If you're not, write an email to let me know.
-   
-<aside class="notice">
-  Be aware that GitHub is something employers look at to get a sense of your technical skills. If this makes you panic, don't use it. But if you can use it and stay sane, it's a good way to establish some credentials.
+     - Be aware that GitHub is something employers look at to get a sense of your technical skills. If this makes you panic, don't use it. But if you can use it and stay sane, it's a good way to establish some credentials.
   
-  I wouldn't worry much about revealing what you don't know, though. By the end of the class, you'll know a lot and you'll have the GitHub presence to prove it!
-</aside>
-   
 - Reading
 
   Explore the links about early modern books. Spend as much time as you can getting a feel for the material we'll be working with and thinking about questions we might address. Visit the zooniverse site and spend 30 min or more labelling annotations. Keep an eye out for interesting things we're not labelling.
