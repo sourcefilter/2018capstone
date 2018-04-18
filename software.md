@@ -33,4 +33,4 @@ Specifically for transcribing historical documents. Part of the EU-funded [READ 
 
 What we've [been using](https://www.zooniverse.org/projects/kirschbombe/book-annotation-classification/) I'll talk to Dawn about how to set up a project.
 
-Also just noticed [this project](https://www.shakespearesworld.org) transcribing Shakespeare's manuscripts. Since it isn't our project we don't get access to the data, but it's probably be worth looking at to see how they do things.
+Also just noticed [this project](https://www.shakespearesworld.org) transcribing Shakespeare's manuscripts. I'm not sure I can make out any of the handwriting, and since it isn't our project we wouldn't get access to the data anyway, but it's probably be worth looking at to see how they do things.
