@@ -6,7 +6,7 @@ We'll be using Python 3. Python 2 and 3 are [not compatible](https://www.dataque
 
 Anacadonda Python is a huge download, but it comes with lots of stuff pre-installed: [https://conda.io/docs/user-guide/install/index.html](https://conda.io/docs/user-guide/install/index.html)
 
-### Text Editors
+# Text Editors
 
 You *could* edit Python in TextEdit or Notepad, but text editors that are made specifically for writing code are a lot more useful.
 
@@ -22,3 +22,15 @@ An alternative to using a text editor. Write little blocks of code, then execute
 ## Git
 
 Version control - it keeps track of different versions of your files.
+
+# Image tagging / transcription
+
+## [Transcribus](https://transkribus.eu/Transkribus/)
+
+Specifically for transcribing historical documents. Part of the EU-funded [READ Project](https://read.transkribus.eu/), the only people I know doing text recognition of complicated handwritten documents. Their code is available [on GitHub]()
+
+## [Zooniverse](https://www.zooniverse.org/)
+
+What we've [been using](https://www.zooniverse.org/projects/kirschbombe/book-annotation-classification/) I'll talk to Dawn about how to set up a project.
+
+Also just noticed [this project](https://www.shakespearesworld.org) transcribing Shakespeare's manuscripts. Since it isn't our project we don't get access to the data, but it's probably be worth looking at to see how they do things.
