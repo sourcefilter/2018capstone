@@ -1,4 +1,4 @@
-# Week 4: Neural Nets / Start Transcribing
+# Week 4: Start Transcribing
 
 ## Preparation
 
